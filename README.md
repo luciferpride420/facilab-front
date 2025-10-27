@@ -1,4 +1,4 @@
-# bun-react-template
+# run powershell command 
 
 To install dependencies:
 
